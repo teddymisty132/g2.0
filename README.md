@@ -1,2 +1,2 @@
-# g2.0
+# genbot2.0
 mhm
